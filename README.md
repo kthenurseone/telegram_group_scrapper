@@ -16,7 +16,7 @@ This tool is ideal for anyone who needs to build or manage Telegram communities 
 
 ## 💼 How to Get the Bot
 
-This is a paid bot. If you're interested in purchasing the Telegram Member Scraping Tool, please reach out directly on Telegram: [@kthenurseone](https://t.me/kthenurseone).
+If you're interested in purchasing the Telegram Member Scraping Tool, please reach out directly on Telegram: [@kthenurseone](https://t.me/kthenurseone).
 
 ---
 
