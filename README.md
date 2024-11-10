@@ -9,7 +9,7 @@ Welcome to the Telegram Member Scraping Tool repository! This tool is perfect fo
 - **💎 Combined Private and Hidden Group Scraping**: Powerful functionality to fetch members from both private and hidden groups.
 - **💎 Active Members Only**: Filters out inactive accounts, dead accounts, and bots to give you a list of active users.
 - **💎 Admin and Moderator Filtering**: Automatically excludes group admins and moderators from the member list.
-- - **💎 Select Online Activity Range**: Customize the bot to only retrieve users based on their last online activity. For example, input "7" to get only members who were active in the last 7 days, or "1" to find members online in the last 1 day.
+- **💎 Select Online Activity Range**: Customize the bot to only retrieve users based on their last online activity. For example, input "7" to get only members who were active in the last 7 days, or "1" to find members online in the last 1 day.
 - **💎 Special Access**: Can collect members even from restricted groups, like [this kind of groups](https://t.me/WadzPay_Official), where regular messaging isn’t allowed. 
 
 This tool is ideal for anyone who needs to build or manage Telegram communities efficiently by focusing on active and relevant users.
